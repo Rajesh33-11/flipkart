@@ -1,22 +1,22 @@
 {
-  "environment": "cvzxf",
-  "nodeName": "vxcvbd",
-  "nodeType": "cxbvdx",
-  "region": "bfbv",
-  "availabilityZone": "cbvdfx",
-  "instanceType": "fbdf",
-  "os": "bdf",
+  "environment": "gbg",
+  "nodeName": "fgvsf",
+  "nodeType": "sfvs",
+  "region": "fsvf",
+  "availabilityZone": "xvfx",
+  "instanceType": "vfd",
+  "os": "svsf",
   "kubernetes": {
-    "role": "vbdx",
-    "version": "54546"
+    "role": "vfsv",
+    "version": "65656"
   },
   "resources": {
-    "cpu": "545",
-    "memory": "fxbdx",
-    "disk": "xffbdx"
+    "cpu": "2566",
+    "memory": "fsv",
+    "disk": "sdvfs"
   },
   "labels": {
-    "environment": "bcvxb",
-    "team": "dfbdfx"
+    "environment": "xv",
+    "team": "dcvsd"
   }
 }
