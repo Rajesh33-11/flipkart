@@ -1,22 +1,22 @@
 {
-  "environment": "gg",
-  "nodeName": "ggg",
-  "nodeType": "ddd",
-  "region": "us-east-1",
-  "availabilityZone": "addsds",
-  "instanceType": "adsa",
-  "os": "Amazon Linux 2023",
+  "environment": "gsg",
+  "nodeName": "cvs",
+  "nodeType": "gsdfg",
+  "region": "fgsgfx",
+  "availabilityZone": "gsfg",
+  "instanceType": "sfgfsx",
+  "os": "gsxg",
   "kubernetes": {
-    "role": "adsas",
-    "version": "asdasd"
+    "role": "sgvfxg",
+    "version": "xvxfg"
   },
   "resources": {
-    "cpu": "sds",
-    "memory": "6",
-    "disk": "65"
+    "cpu": "dgsd",
+    "memory": "sdvds",
+    "disk": "dsgfds"
   },
   "labels": {
-    "environment": "487",
-    "team": "sdas"
+    "environment": "dgvdsf",
+    "team": "sdgds"
   }
 }
