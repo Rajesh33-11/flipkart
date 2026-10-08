@@ -1,22 +1,22 @@
 {
-  "environment": "prod",
+  "environment": "rasdf",
   "nodeName": "node-22",
-  "nodeType": "master",
-  "region": "us-east-89",
-  "availabilityZone": "us-east-1c",
-  "instanceType": "t8.large",
-  "os": "ubuntu",
+  "nodeType": "fsdfs",
+  "region": "dfdsf",
+  "availabilityZone": "fsefd",
+  "instanceType": "dfdsf",
+  "os": "fdsfs",
   "kubernetes": {
-    "role": "master",
-    "version": "125.36"
+    "role": "fdsf",
+    "version": "dfsdf"
   },
   "resources": {
-    "cpu": "8",
-    "memory": "45GB",
-    "disk": "90GB"
+    "cpu": "dfds",
+    "memory": "5464",
+    "disk": "adfsd6596"
   },
   "labels": {
-    "environment": "prod",
-    "team": "oooo"
+    "environment": "59595",
+    "team": "dfd65"
   }
 }
