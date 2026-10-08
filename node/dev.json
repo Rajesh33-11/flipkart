@@ -1,22 +1,22 @@
 {
-  "environment": "DGBV",
-  "nodeName": "BXFB",
-  "nodeType": "BDFB",
-  "region": "VBVCB",
-  "availabilityZone": "VBDV",
-  "instanceType": "VBDC",
-  "os": "BV",
+  "environment": "dfgdf",
+  "nodeName": "fg",
+  "nodeType": "fdbdf",
+  "region": "gfdg",
+  "availabilityZone": "fgdfg",
+  "instanceType": "gdfb",
+  "os": "fdgdf",
   "kubernetes": {
-    "role": "DVB",
-    "version": "112"
+    "role": "gdfg",
+    "version": "5655"
   },
   "resources": {
-    "cpu": "878",
-    "memory": "DBGDF",
-    "disk": "DGBGD"
+    "cpu": "56",
+    "memory": "fgsdf",
+    "disk": "dfg"
   },
   "labels": {
-    "environment": "DVB",
-    "team": "DBV"
+    "environment": "fgvdf",
+    "team": "fsgd"
   }
 }
