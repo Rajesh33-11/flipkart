@@ -3,7 +3,7 @@
   "appName": "myapp",
   "version": "1.0.0",
   "replicas": 1,
-  "logLevel": "DEBUG",
+  "logLevel": "",
   "database": {
     "host": "dev-db.example.com",
     "port": 5432,
@@ -14,7 +14,7 @@
     "memory": "256Mi"
   },
   "features": {
-    "debug": true,
+    "debug": false,
     "maintenanceMode": false
   }
 }
