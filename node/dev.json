@@ -1,22 +1,22 @@
 {
-  "environment": "DS",
-  "nodeName": "DSD",
-  "nodeType": "SDS",
-  "region": "DSD",
+  "environment": "TEST",
+  "nodeName": "NODE-899",
+  "nodeType": "DSDS",
+  "region": "DSDSD",
   "availabilityZone": "DSD",
-  "instanceType": "DSD",
-  "os": "954654",
+  "instanceType": "989",
+  "os": "4848",
   "kubernetes": {
-    "role": "8789",
-    "version": "778\\8"
+    "role": "484",
+    "version": "7L"
   },
   "resources": {
-    "cpu": "LD,SLM",
-    "memory": "SDS",
-    "disk": "DSD"
+    "cpu": "787",
+    "memory": "VHG",
+    "disk": "89gb"
   },
   "labels": {
-    "environment": "DSD",
-    "team": "SDSD"
+    "environment": "PROD",
+    "team": "LOOKUP"
   }
 }
