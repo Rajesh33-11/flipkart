@@ -1,22 +1,22 @@
 {
-  "environment": "TEST",
-  "nodeName": "NODE-899",
-  "nodeType": "DSDS",
-  "region": "DSDSD",
-  "availabilityZone": "DSD",
-  "instanceType": "989",
-  "os": "4848",
+  "environment": "dfsd",
+  "nodeName": "fdsgs",
+  "nodeType": "sfgfs",
+  "region": "sgfs",
+  "availabilityZone": "gsfg",
+  "instanceType": "fgsrr",
+  "os": "gfsg",
   "kubernetes": {
-    "role": "484",
-    "version": "7L"
+    "role": "gsfg",
+    "version": "gsrr"
   },
   "resources": {
-    "cpu": "787",
-    "memory": "VHG",
-    "disk": "89gb"
+    "cpu": "gfsg",
+    "memory": "gssrrg",
+    "disk": "gsg"
   },
   "labels": {
-    "environment": "PROD",
-    "team": "LOOKUP"
+    "environment": "gsg",
+    "team": "gsrg"
   }
 }
