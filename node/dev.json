@@ -1,22 +1,22 @@
 {
-  "environment": "Prod",
-  "nodeName": "node-05",
-  "nodeType": "master",
-  "region": "us-east-2a",
-  "availabilityZone": "us-east-2a",
-  "instanceType": "t4.micro",
-  "os": "ubuntu",
+  "environment": "dev",
+  "nodeName": "node-06",
+  "nodeType": "worker",
+  "region": "us-boost-4a",
+  "availabilityZone": "us-east-1a",
+  "instanceType": "t5.micro",
+  "os": "Amozon",
   "kubernetes": {
-    "role": "master",
-    "version": "3.22"
+    "role": "worker",
+    "version": "5.33"
   },
   "resources": {
-    "cpu": "4",
-    "memory": "2GB",
-    "disk": "30GI"
+    "cpu": "5",
+    "memory": "8GB",
+    "disk": "80GB"
   },
   "labels": {
-    "environment": "prod",
-    "team": "master"
+    "environment": "Dev",
+    "team": "worker"
   }
 }
