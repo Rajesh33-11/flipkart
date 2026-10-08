@@ -1,22 +1,22 @@
 {
-  "environment": "stage",
-  "nodeName": "node-06",
+  "environment": "prod",
+  "nodeName": "node-22",
   "nodeType": "master",
-  "region": "us-east-5",
-  "availabilityZone": "us-east-5",
-  "instanceType": "t8.micro",
+  "region": "us-east-89",
+  "availabilityZone": "us-east-1c",
+  "instanceType": "t8.large",
   "os": "ubuntu",
   "kubernetes": {
     "role": "master",
-    "version": "2.36"
+    "version": "125.36"
   },
   "resources": {
-    "cpu": "6",
-    "memory": "5",
-    "disk": "80"
+    "cpu": "8",
+    "memory": "45GB",
+    "disk": "90GB"
   },
   "labels": {
     "environment": "prod",
-    "team": "kkk"
+    "team": "oooo"
   }
 }
