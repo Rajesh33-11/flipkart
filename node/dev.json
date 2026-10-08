@@ -1,22 +1,22 @@
 {
-  "environment": "rasdf",
-  "nodeName": "node-22",
-  "nodeType": "fsdfs",
-  "region": "dfdsf",
-  "availabilityZone": "fsefd",
-  "instanceType": "dfdsf",
-  "os": "fdsfs",
+  "environment": "DS",
+  "nodeName": "DSD",
+  "nodeType": "SDS",
+  "region": "DSD",
+  "availabilityZone": "DSD",
+  "instanceType": "DSD",
+  "os": "954654",
   "kubernetes": {
-    "role": "fdsf",
-    "version": "dfsdf"
+    "role": "8789",
+    "version": "778\\8"
   },
   "resources": {
-    "cpu": "dfds",
-    "memory": "5464",
-    "disk": "adfsd6596"
+    "cpu": "LD,SLM",
+    "memory": "SDS",
+    "disk": "DSD"
   },
   "labels": {
-    "environment": "59595",
-    "team": "dfd65"
+    "environment": "DSD",
+    "team": "SDSD"
   }
 }
