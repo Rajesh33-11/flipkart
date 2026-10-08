@@ -1,22 +1,22 @@
 {
-  "environment": "stage",
-  "nodeName": "node-01",
-  "nodeType": "worker",
-  "region": "us-east-1",
-  "availabilityZone": "us-east-1b",
-  "instanceType": "t3.medium",
-  "os": "Amazon Linux 2023",
+  "environment": "dff",
+  "nodeName": "dfad",
+  "nodeType": "adfad",
+  "region": "fdafads",
+  "availabilityZone": "adfasf",
+  "instanceType": "dafad",
+  "os": "afdfad",
   "kubernetes": {
-    "role": "worker",
-    "version": "1.36"
+    "role": "asdfdsa",
+    "version": "adsf"
   },
   "resources": {
-    "cpu": "2",
-    "memory": "4Gi",
-    "disk": "50Gi"
+    "cpu": "adsfad",
+    "memory": "fasfda",
+    "disk": "sdfad"
   },
   "labels": {
-    "environment": "stage",
-    "team": "qa"
+    "environment": "asdf",
+    "team": "asfa"
   }
 }
