@@ -1,22 +1,22 @@
 {
-  "environment": "prod",
-  "nodeName": "node-56",
-  "nodeType": "clusterip",
-  "region": "mumbai",
-  "availabilityZone": "us-east-1a",
-  "instanceType": "t5.large",
-  "os": "linux",
+  "environment": "dfsddsfsd",
+  "nodeName": "fdsfd",
+  "nodeType": "fdfadfsad",
+  "region": "sfssds",
+  "availabilityZone": "sdsds",
+  "instanceType": "sf",
+  "os": "ssd",
   "kubernetes": {
-    "role": "master",
-    "version": "2.35"
+    "role": "sdff",
+    "version": "666"
   },
   "resources": {
-    "cpu": "4",
-    "memory": "5",
-    "disk": "20"
+    "cpu": "555",
+    "memory": "55",
+    "disk": "45"
   },
   "labels": {
-    "environment": "prod",
-    "team": "team"
+    "environment": "44",
+    "team": "44"
   }
 }
